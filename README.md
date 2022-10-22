@@ -9,4 +9,4 @@ A bookmarklet to disable extensions based on LTBEEF with an interface based on t
 
 3. Go to bookmarklet.js copy and paste on the `Add Page` section
 
-###Finsihed!
+### Finsihed!
